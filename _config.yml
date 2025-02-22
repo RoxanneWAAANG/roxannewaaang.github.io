@@ -13,9 +13,9 @@ title                    : "Ruoxin (Roxanne) Wang"
 title_separator          : "-"
 name                     : &name "Ruoxin (Roxanne) Wang"
 description              : &description "MEng AI @ Duke | AI Researcher | Multi-modal Learning | AI Agent | Data Scientist"
-url                      : https://roxannewaaang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://roxannewaaang.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "RoxanneWAAANG"
+repository               : "https://roxannewaaang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   name             : "Ruoxin (Roxanne) Wang"
   pronouns         : "she/her"  
   bio              : "MEng AI @ Duke | AI Researcher | Multi-modal Learning | AI Agent | Data Scientist"
-  location         : "Durham, NC, USa"
+  location         : "Durham, NC, USA"
   employer         : "Duke University"
   uri              : # URL
   email            : "ruoxinwaaang@gmail.com" 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/RoxanneWAAANG"
+  github           : "RoxanneWAAANG"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,9 +59,9 @@ author:
   keybase          : # Username
   instagram        : "roxan.nnnne"
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/ruoxin-wang-b6263a2a6/"
+  linkedin         : "ruoxin-wang-b6263a2a6"
   mastodon         : # URL
-  medium           : "medium.com/@ruoxinwaaang"
+  medium           : "@ruoxinwaaang"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
@@ -72,7 +72,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "https://www.youtube.com/@roxannewang33"
+  youtube          : "@roxannewang33"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
