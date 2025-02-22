@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Master of Engineering in Artificial Intelligence"
+title                    : "Ruoxin (Roxanne) Wang"
 title_separator          : "-"
 name                     : &name "Ruoxin (Roxanne) Wang"
 description              : &description "MEng AI @ Duke | AI Researcher | Multi-modal Learning | AI Agent | Data Scientist"
 url                      : https://roxannewaaang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/RoxanneWAAANG"
+repository               : "RoxanneWAAANG"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
