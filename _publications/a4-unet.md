@@ -6,6 +6,7 @@ permalink: https://ieeexplore.ieee.org/abstract/document/10821912?casa_token=Q1q
 excerpt: 'This paper proposes a CNN network for brain tumor segmentation.'
 date: 2024-12-10
 venue: 'IEEE International Conference on Bioinformatics and Biomedicine (BIBM)'
+slidesurl: 'https://drive.google.com/file/d/13OZRF81uVrOHftqoCZb2sGq-RS3AMMjC/view?usp=sharing'
 paperurl: 'https://arxiv.org/abs/2412.06088'
 citation: 'R. Wang et al., "A4-Unet: Deformable Multi-Scale Attention Network for Brain Tumor Segmentation," 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Lisbon, Portugal, 2024, pp. 2583-2590, doi: 10.1109/BIBM62325.2024.10821912.'
 ---
