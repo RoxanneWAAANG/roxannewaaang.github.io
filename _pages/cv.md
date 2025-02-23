@@ -36,9 +36,9 @@ MMKG with enriched semantic relationships found in GNN.
 
 * Summer 2022: Logistics Data Analysis and Visualization
   * Han's Laser
-  * Developed detailed customer profiles using RFM Analysis with over four key metrics, facilitating precision marketing strategies that reduced push marketing costs by 12\%, from \$2000 to \$1760 per campaign.
-  * Implemented funnel analysis to enhance user targeting for push notifications; conducted A/B testing in Python to refine the website’s navigation structure, boosting loyalty user numbers by 6\% (from 15,000 to 16,000).
-  * Engineered a data visualization website using HTML, CSS, and JavaScript, incorporating advanced visual analytics tools like \textbf{Pyecharts} and \textbf{ggplot2} for dynamic data representation.
+  * Developed detailed customer profiles using RFM Analysis with over four key metrics, facilitating precision marketing strategies that reduced push marketing costs by 12%, from $2000 to $1760 per campaign.
+  * Implemented funnel analysis to enhance user targeting for push notifications; conducted A/B testing in Python to refine the website’s navigation structure, boosting loyalty user numbers by 6% (from 15,000 to 16,000).
+  * Engineered a data visualization website using HTML, CSS, and JavaScript, incorporating advanced visual analytics tools like Pyecharts and ggplot2 for dynamic data representation.
 
 Research Experience
 ======
@@ -67,7 +67,7 @@ Honors & Achievements
 automatic creation of functional swarms through simple prompts.
   * Implemented core modules including the ’Manager Agent’ for concept refinement, ’Agent Creator’ for custom agents, and
 ’Tool Creator’ for specialized tool development.
-  * Successfully applied Inception Swarm across 10+ real-world scenarios, contributed code to the OpenAI Swarm GitHub.
+  * Successfully applied Inception Swarm across 10+ real-world scenarios [Demo](https://youtu.be/JWkedHZpsEQ?si=KZGu_xt9TkJJgqTY), contributed code to the OpenAI Swarm [GitHub](https://github.com/Sakshee5/swarm-builder).
 
 * 2024 Excellent Reward for Computer Science Poster Exhibition in HKBU
 * 2024 Hong Kong Baptist University First Class Scholarship
@@ -76,6 +76,14 @@ automatic creation of functional swarms through simple prompts.
 * 2022 National Undergraduate Mathematical Contest in Modeling
 * 2021 Hong Kong Baptist University Second Class Scholarship
 * 2021 National Undergraduate Mathematical Contest in Modeling
+
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 
 Skills
 ======
@@ -111,12 +119,6 @@ Skills
   * Git
   * SSH
 
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 <!-- Talks
 ======
@@ -130,6 +132,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
+Leadership & Service
 ======
 * Data Science Student Union
