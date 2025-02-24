@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ruoxin Wang's Personal Websites"
+title: "Ruoxin Wang's Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
