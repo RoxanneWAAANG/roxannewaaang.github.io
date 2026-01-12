@@ -3,7 +3,7 @@ title: "A4-Unet: Deformable Multi-Scale Attention Network for Brain Tumor Segmen
 collection: publications
 category: conferences
 permalink: https://ieeexplore.ieee.org/abstract/document/10821912?casa_token=Q1qUJR19ymMAAAAA:3ALnmWhMUZyI_E5B1uqKkv0-I0DUkEba0gpmlUOLsUPSell49qRi7TAihCTDw_VX5sVjfFMnNg
-excerpt: 'This paper proposes a CNN network for brain tumor segmentation.'
+excerpt: ''
 date: 2024-12-10
 venue: 'IEEE International Conference on Bioinformatics and Biomedicine (BIBM)'
 slidesurl: 'https://drive.google.com/file/d/13OZRF81uVrOHftqoCZb2sGq-RS3AMMjC/view?usp=sharing'

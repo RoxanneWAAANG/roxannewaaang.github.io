@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.Eng. in Artificial Intelligence, Duke University, 2026 (Expected)
+* M.Eng. in Artificial Intelligence, Duke University, 2025
 * B.S. in Data Science, Hong Kong Baptist University, 2024
 
 <!-- Internship Experience
@@ -85,7 +85,7 @@ Publications
   {% endfor %}</ul>
 
 
-Skills
+<!-- Skills
 ======
 * Programming Languages
   * Python
@@ -117,7 +117,7 @@ Skills
 * Systems & Tools
   * Linux
   * Git
-  * SSH
+  * SSH -->
 
   
 <!-- Talks
