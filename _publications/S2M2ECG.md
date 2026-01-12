@@ -2,7 +2,7 @@
 title: "S2M2ECG: Spatio-temporal bi-directional State Space Model Enabled Multi-branch Mamba for ECG"
 collection: preprint
 category: arxiv
-permalink: 
+permalink: https://arxiv.org/abs/2509.03066
 excerpt: ''
 date: 2025-09-03
 venue: ''
