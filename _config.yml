@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ruoxin (Roxanne) Wang"
-  pronouns         : # "she/her"  
+  pronouns         : "she/her"  
   bio              : "MEng AI @ Duke | AI Researcher | Multi-modal | Trustworthy AI"
   location         : "Durham, NC, USA"
   employer         : "Duke University"
@@ -67,7 +67,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "XRoxanneWANG"
+  twitter          : # "XRoxanneWANG"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
