@@ -14,7 +14,7 @@ Education
 * M.Eng. in Artificial Intelligence, Duke University, 2026 (Expected)
 * B.S. in Data Science, Hong Kong Baptist University, 2024
 
-Internship Experience
+<!-- Internship Experience
 ======
 * Spring 2024: Multi-modal Learning Algorithm Intern
   * Guangdong Institute of Intelligence Science and Technology 
@@ -57,7 +57,7 @@ Pyramid Pooling to enhance multi-scale mapping, established SOTA benchmark on Br
   * Designed a Combined Attention Module that integrates Discrete Cosine Transform (DCT) with convolutional operations
 to optimize spatial weighting, effectively enhancing the focus on tumors while minimizing background noise.
   * Formulated a novel frequency loss function paired with deep supervision strategies to emphasize high-frequency details,
-enabling the model to leverage textural nuances for more precise segmentation.
+enabling the model to leverage textural nuances for more precise segmentation. -->
 
 Honors & Achievements
 ======
@@ -134,4 +134,7 @@ Teaching
   
 Leadership & Service
 ======
+* ICML 2025 Workshop FM4LS Reviewer
+* NeurIPS 2025 Workshop FM4LS Reviewer
 * Data Science Student Union
+

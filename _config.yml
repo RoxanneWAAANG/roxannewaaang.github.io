@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Ruoxin (Roxanne) Wang"
   pronouns         : # "she/her"  
-  bio              : "MEng AI @ Duke | AI Researcher | Multi-modal Learning | AI Agent | Data Scientist"
+  bio              : "MEng AI @ Duke | AI Researcher | Multi-modal | Trustworthy AI"
   location         : "Durham, NC, USA"
   employer         : "Duke University"
   uri              : # URL
@@ -35,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=nkR6RL0AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/0009-0006-0213-1567"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
